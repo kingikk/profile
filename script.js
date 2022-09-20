@@ -112,4 +112,4 @@ particlesJS("particles-js", {
 document.addEventListener("copy", (evt) => {
   evt.clipboardData.setData("text/plain", "Копирование запрещено");
   evt.preventDefault();
-}, false);
+}, true);
