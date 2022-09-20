@@ -109,7 +109,3 @@ particlesJS("particles-js", {
   "retina_detect": true
 });
 
-document.addEventListener("copy", (evt) => {
-  evt.clipboardData.setData("text/plain", "Копирование запрещено");
-  evt.preventDefault();
-}, true);
