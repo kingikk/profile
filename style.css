@@ -286,7 +286,7 @@ body {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: linear-gradient(191.24deg, #1f012d 20%, #542929 53.43%, #381e1e 101.56%) fixed;
+    
 }
 
 canvas {
@@ -339,7 +339,7 @@ img {
     color: rgba(170, 0, 254, 0.43);
 }
 
-.fa-vk {
+.fa-spotify {
     position: absolute;
     left: -100px;
     top: 250px;
@@ -348,7 +348,7 @@ img {
 .fa-telegram-plane {
     position: absolute;
     left: 70px;
-    top: 25px;
+    top: 255px;
 }
 
 input[type="search"] {
