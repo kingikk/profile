@@ -341,14 +341,14 @@ img {
 
 .fa-vk {
     position: absolute;
-    left: -10px;
+    left: -100px;
     top: 250px;
 }
 
 .fa-telegram-plane {
     position: absolute;
     left: 70px;
-    top: 255px;
+    top: 25px;
 }
 
 input[type="search"] {
